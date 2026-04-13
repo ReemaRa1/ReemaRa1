@@ -7,9 +7,7 @@
 </h4>
 
 <p align="center">
-  <img width="250" src="<a href="https://www.linkedin.com/in/ريما-العريني-83009233b" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
-</a>
+  <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJqbHNsNTU3cm9hZjl4N29qMXRiZjZhdjVzOW9pamFyaXEzamE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif">
 </p>
 
 <p align="center">
@@ -17,7 +15,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
   </a>
 
-  <a href="[https://www.linkedin.com/"](https://www.linkedin.com/in/ريما-العريني-83009233b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)>
+  <a href="https://www.linkedin.com/in/ريما-العريني-83009233b" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
   </a>
 
@@ -26,7 +24,6 @@
   </a>
 </p>
 
-
 <br>
 
 <p align="center">
@@ -34,7 +31,6 @@
 </p>
 
 <br>
-
 
 <h3 align="center">🛠️ Technical Skills</h3>
 

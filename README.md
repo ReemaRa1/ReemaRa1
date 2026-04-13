@@ -7,7 +7,9 @@
 </h4>
 
 <p align="center">
-  <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJqbHNsNTU3cm9hZjl4N29qMXRiZjZhdjVzOW9pamFyaXEzamE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif">
+  <img width="250" src="<a href="https://www.linkedin.com/in/ريما-العريني-83009233b" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
+</a>
 </p>
 
 <p align="center">

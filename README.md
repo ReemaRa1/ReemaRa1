@@ -1,88 +1,140 @@
-<h2 align="center">Reema Aloraini</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reema Portfolio</title>
 
-<p align="center">
-  <samp>
-    Computer Science Student | AI & Data Enthusiast
-  </samp>
-</p>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #fff1f5; /* soft pink background */
+            color: #1e293b;
+        }
 
-<p align="center">
-  <samp>
-    Passionate about Artificial Intelligence, Data Analysis, and Machine Learning. <br>
-    Focused on building practical projects and continuously developing technical skills.
-  </samp>
-</p>
+        header {
+            text-align: center;
+            padding: 60px;
+            background: #f472b6; /* main pink */
+            color: white;
+        }
 
-<br>
+        header h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internship-green"/>
-</p>
+        header p {
+            font-size: 18px;
+        }
 
-<br>
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReemaRa1&show_icons=true&hide_border=true"/>
-</p>
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-top: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemaRa1&layout=compact&hide_border=true"/>
-</p>
+        h2 {
+            border-bottom: 2px solid #ec4899;
+            padding-bottom: 10px;
+        }
 
-<br>
+        button {
+            background: #ec4899;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
 
-<h3 align="center">Technical Skills</h3>
+        button:hover {
+            background: #db2777;
+        }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github"/>
-</p>
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #64748b;
+        }
+    </style>
+</head>
 
-<br>
+<body>
 
-<h3 align="center">Projects</h3>
+    <header>
+        <h1>Reema Aloraini 👩🏻‍💻</h1>
+        <p>Computer Science Student | Artificial Intelligence | Data Analysis</p>
+    </header>
 
-<p align="center">
-  <a href="https://github.com/ReemaRa1/student-data-analysis">
-    <b>Student Data Analysis</b>
-  </a>
-</p>
+    <section>
+        <h2>About Me</h2>
+        <div class="card">
+            <p>
+                Computer Science student with a strong interest in Artificial Intelligence, 
+                Machine Learning, and Data Analysis. Skilled in Python and problem solving, 
+                with hands-on experience in building data-driven projects. 
+                Passionate about applying technology to solve real-world problems.
+            </p>
+        </div>
+    </section>
 
-<p align="center">
-  <samp>
-    Analyzed student performance data using Python (Pandas, NumPy). <br>
-    Performed data cleaning, visualization, and extracted insights to support decision-making.
-  </samp>
-</p>
+    <section>
+        <h2>Technical Skills</h2>
+        <div class="card">
+            <p>
+                Python • C++ • Java • Data Analysis • Pandas • Problem Solving • Git
+            </p>
+        </div>
+    </section>
 
-<br>
+    <section>
+        <h2>Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/ReemaRa1/ReemaAloraini_protfilo">
-    <b>Personal Portfolio Website</b>
-  </a>
-</p>
+        <div class="card">
+            <h3>Arabic Sentiment Analysis</h3>
+            <p>
+                Developed a Machine Learning model to analyze sentiment in Arabic text 
+                using Natural Language Processing (NLP) techniques.
+            </p>
+            <a href="https://github.com/ReemaRa1/arabic-sentiment-analysis" target="_blank">
+                <button>View Project</button>
+            </a>
+        </div>
 
-<p align="center">
-  <samp>
-    Designed and developed a personal portfolio to showcase projects and skills. <br>
-    Built using HTML, CSS, and GitHub Pages for deployment.
-  </samp>
-</p>
+        <div class="card">
+            <h3>Student Data Analysis</h3>
+            <p>
+                Built a data analysis project using Python and Pandas to process student data, 
+                calculate performance metrics, and identify trends and insights.
+            </p>
+            <a href="https://github.com/ReemaRa1/student-data-analysis" target="_blank">
+                <button>View Project</button>
+            </a>
+        </div>
 
-<br>
+    </section>
 
-<h3 align="center">Connect</h3>
+    <section>
+        <h2>Contact</h2>
+        <div class="card">
+            <p>Email: reema.ebra@icloud.com</p>
+        </div>
+    </section>
 
-<p align="center">
-  <a href="https://github.com/ReemaRa1">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
-  </a>
+    <footer>
+        <p>© 2026 Reema Aloraini</p>
+    </footer>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png"/>
-  </a>
-</p>
+</body>
+</html>

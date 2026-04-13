@@ -1,3 +1,30 @@
+<h4 align="center">
+  <samp>
+    Hi there 👋🏻 <br>
+    I'm Reema Aloraini, a Computer Science student <br>
+    interested in Artificial Intelligence 🤖 and Data Analysis 📊
+  </samp>
+</h4>
+
+<p align="center">
+  <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJqbHNsNTU3cm9hZjl4N29qMXRiZjZhdjVzOW9pamFyaXEzamE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ReemaRa1">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
+  </a>
+
+  <a href="mailto:reema.ebra@icloud.com">
+    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png"/>
+  </a>
+</p>
+
+
 <br>
 
 <p align="center">
@@ -6,17 +33,6 @@
 
 <br>
 
-<h3 align="center">👩🏻‍💻 About Me</h3>
-
-<p align="center">
-  <samp>
-    Computer Science student with a strong interest in Artificial Intelligence, <br>
-    Machine Learning, and Data Analysis. <br>
-    Passionate about building real-world projects and solving problems using data.
-  </samp>
-</p>
-
-<br>
 
 <h3 align="center">🛠️ Technical Skills</h3>
 

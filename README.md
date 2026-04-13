@@ -75,7 +75,7 @@
 <h3 align="center">🌐 Portfolio</h3>
 
 <p align="center">
-  <a href="https://reemara1.github.io/ReemaAloraini_protfilo/">
+  <a href="[https://reemara1.github.io/ReemaAloraini_protfilo/"](https://reemara1.github.io/)>
     <b>View My Portfolio</b>
   </a>
 </p>

@@ -1,51 +1,35 @@
-<h2 align="center">Reema Aloraini 👩🏻‍💻</h2>
+
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  Computer Science Student | Artificial Intelligence | Data Analysis
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
+
 
 <p align="center">
-  💗 Passionate about building real-world AI & Data projects
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
----
-
-### 👩🏻‍💻 About Me
-Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Data Analysis.  
-Skilled in Python and problem solving, with hands-on experience in building data-driven projects.  
-Passionate about applying technology to solve real-world problems.
-
----
-
-### 🛠️ Technical Skills
-Python • C++ • Java • Data Analysis • Pandas • Problem Solving • Git
-
----
-
-### 🚀 Projects
-
-#### 📌 Arabic Sentiment Analysis
-Developed a Machine Learning model to analyze sentiment in Arabic text using NLP techniques.  
-🔗 https://github.com/ReemaRa1/arabic-sentiment-analysis
-
----
-
-#### 📌 Student Data Analysis
-Built a data analysis project using Python and Pandas to process student data, calculate performance metrics, and identify insights.  
-🔗 https://github.com/ReemaRa1/student-data-analysis
-
----
-
-### 🌐 Portfolio
-🔗 https://reemara1.github.io/ReemaAloraini_protfilo/
-
----
-
-### 📫 Contact
-📧 reema.ebra@icloud.com
-
----
-
-<p align="center">
-  💕 Open to Internship Opportunities
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
 </p>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
+<!--
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

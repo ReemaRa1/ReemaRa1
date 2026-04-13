@@ -1,35 +1,67 @@
-
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
-
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-
+<br>
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internship-pink"/>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
+<br>
+
+<h3 align="center">👩🏻‍💻 About Me</h3>
+
+<p align="center">
+  <samp>
+    Computer Science student with a strong interest in Artificial Intelligence, <br>
+    Machine Learning, and Data Analysis. <br>
+    Passionate about building real-world projects and solving problems using data.
   </samp>
 </p>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
- -->
-<!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center">🛠️ Technical Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Python • C++ • Java • Data Analysis • Pandas • Problem Solving • Git
+  </samp>
+</p>
+
+<br>
+
+<h3 align="center">🚀 Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/ReemaRa1/arabic-sentiment-analysis">
+    <b>Arabic Sentiment Analysis</b>
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    Built a Machine Learning model to analyze sentiment in Arabic text using NLP techniques.
+  </samp>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/ReemaRa1/student-data-analysis">
+    <b>Student Data Analysis</b>
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    Analyzed student performance data using Python and Pandas to extract insights and trends.
+  </samp>
+</p>
+
+<br>
+
+<h3 align="center">🌐 Portfolio</h3>
+
+<p align="center">
+  <a href="https://reemara1.github.io/ReemaAloraini_protfilo/">
+    <b>View My Portfolio</b>
+  </a>
+</p>

@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/"](https://www.linkedin.com/in/ريما-العريني-83009233b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)>
     <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
   </a>
 

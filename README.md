@@ -16,6 +16,12 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internship-green"/>
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReemaRa1&show_icons=true&hide_border=true"/>
 </p>
 
@@ -29,6 +35,38 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github"/>
+</p>
+
+<br>
+
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/ReemaRa1/student-data-analysis">
+    <b>Student Data Analysis</b>
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    Analyzed student performance data using Python (Pandas, NumPy). <br>
+    Performed data cleaning, visualization, and extracted insights to support decision-making.
+  </samp>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/ReemaRa1/ReemaAloraini_protfilo">
+    <b>Personal Portfolio Website</b>
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    Designed and developed a personal portfolio to showcase projects and skills. <br>
+    Built using HTML, CSS, and GitHub Pages for deployment.
+  </samp>
 </p>
 
 <br>
@@ -47,12 +85,4 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png"/>
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <samp>
-    Selected Projects ↓
-  </samp>
 </p>
